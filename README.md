@@ -1,1 +1,30 @@
-# SkynetBingothon1
+# Skynet Bingothon #1
+
+Welcome to the first ever Skynet Labs Bingothon! We have 25 skapp ideas for you to hack on over the next 60 hours, with final submissions due on Sunday, Nov 14 at 11:59pm Eastern Time.
+
+There is an issue for each of the Bingo card squares with a description of the skapp necessary to complete the square. You are free to hack on any of the squares, but keep in mind that only the first *acceptable MVP* will win the square. 
+
+You can earn awards in three ways. 
+1. Win a square by being the first to submit an acceptable MVP. 
+2. A square you've won is a part of a bingo (horizontal or vertical).
+3. You submit an acceptable (fully-functioning) skapp after the winning project
+
+Awards are as follows:
+
+|         Win Type          | Prize Amount (in Siacoin) |
+|:-------------------------:|:-------------------------:|
+|1. Square-winning skapp     |      $1,000 USD        |
+| 2. Square is part of a bingo |       $200 USD        |
+|  3. Prize pool per square   |         $200 USD         |
+
+There are no limits to the number of squares you can submit a project for, but remember, only the first winning project will be awarded the $1,000 USD prize.
+
+The potential award per person per square is $1,400 USD if you win the square and it is a part of a bingo both vertically and horizontally. There is an additional $200 prize pool for additional submissions per square. That brings the total value of each square to $1,600 USD.
+
+Throughout the weekend, we may introduce bonus rounds (features) for certain squares. Bonus features can vary in complexity and prize value, and will be announced on Discord in the #hackathons-and-bounties channel.  
+
+Tag @taek and @ayoung on the Bingothon thread in Discord when you submit a project for evaluation. We will do our best to evaluate in real time. 
+
+We hope you have fun hacking, and good luck! 
+
+![image](https://user-images.githubusercontent.com/34407065/141413902-214faaf9-ea88-4cf2-b370-5a33c9213c51.png)
