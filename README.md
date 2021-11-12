@@ -1,8 +1,6 @@
 # Skynet Bingothon #1: Homescreen Edition
 
-Welcome to the first ever Skynet Labs Bingothon! We have 25 skapp ideas for you to hack on over the next 60 hours, with final submissions due on Sunday, Nov 14 at 11:59pm Eastern Time.
-
-<img width="628" alt="BINGOTHON1CARD" src="https://user-images.githubusercontent.com/34407065/141501117-175fc5ca-afc2-4c41-8ef8-2069edee24b3.png">
+Welcome to the first ever Skynet Labs Bingothon! We have 25 skapp ideas for you to hack on over the next 60 hours, with final submissions due on Sunday, Nov 14 at 11:59pm Eastern Time
 
 There is an issue for each of the Bingo squares with a description of the criteria for the skapp. Skapps must meet a standard of *acceptable* to be eligable for a prize. To write an acceptable skapp, it must appear as a completed, quality tested, fun to use application. When determining if a skapp is acceptable, the judges will primarily be asking whether the skapp has any major eyesores, bugs, or other UX hurdles that would deter new users from using the app a second time. To be successful in this hackathon, hackers are encouraged to focus on doing the minimum possible work while still creating a skapp that feels complete and professional. [SkySend](https://skysend.hns.siasky.net) is a fantastic example of a skapp that is very minimal, yet also provides excellent user experience.
 
