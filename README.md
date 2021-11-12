@@ -4,28 +4,26 @@ Welcome to the first ever Skynet Labs Bingothon! We have 25 skapp ideas for you 
 
 <img width="628" alt="BINGOTHON1CARD" src="https://user-images.githubusercontent.com/34407065/141501117-175fc5ca-afc2-4c41-8ef8-2069edee24b3.png">
 
-There is an issue for each of the Bingo card squares with a description of the skapp necessary to complete the square. You are free to hack on any of the squares, but keep in mind that only the first *acceptable MVP* will win the square. 
+There is an issue for each of the Bingo squares with a description of the criteria for the skapp. Skapps must meet a standard of *acceptable* to be eligable for a prize. To write an acceptable skapp, it must appear as a completed, quality tested, fun to use application. When determining if a skapp is acceptable, the judges will primarily be asking whether the skapp has any major eyesores, bugs, or other UX hurdles that would deter new users from using the app a second time. To be successful in this hackathon, hackers are encouraged to focus on doing the minimum possible work while still creating a skapp that feels complete and professional. [SkySend](https://skysend.hns.siasky.net) is a fantastic example of a skapp that is very minimal, yet also provides excellent user experience.
+
+Apps can be submitted at any time. If an app is found to be unacceptable, the judges will provide a list of reasons for rejecting the app. Hackers can resubmit the application once the issues are fixed. There is no penalty for submitting an app early or requesting early feedback from the judges - in fact, it is encouraged! Tag @taek and @ayoung on the Bingothon thread in Discord when you submit a project for evaluation. We will do our best to evaluate in real time. 
 
 You can earn awards in three ways. 
-1. Win a square by being the first to submit an acceptable MVP. 
-2. A square you've won is a part of a bingo (horizontal or vertical).
-3. You submit an acceptable (fully-functioning) skapp after the winning project
+1. Win a square by being the first to submit an acceptable MVP. (1 per square)
+2. Submit an acceptable skapp after the winning project (split the pool prize with all other winners)
+3. A square you've won is a part of a bingo (horizontal or vertical) (adds to the pool prize).
 
 Awards are as follows:
 
 |         Win Type          | Prize Amount (in Siacoin) |
 |:-------------------------:|:-------------------------:|
-|1. Square-winning skapp     |      $1,000 USD        |
-| 2. Square is part of a bingo |       $200 USD        |
-|  3. Prize pool per square   |         $200 USD         |
+|1. Square-winning skapp     |      $400 USD        |
+| 2. Prize pool per square |       $400 USD        |
+|  3.  Square is part of a bingo  |         $400 USD         |
 
-There are no limits to the number of squares you can submit a project for, but remember, only the first winning project will be awarded the $1,000 USD prize.
+There are no limits to the number of squares you can submit a project for. If a square has only one winner, that winner will collect the winning prize, the full pool prize, and the full prize money for all bingos that cover the square, making the maximum possible reward for a single square $1,600. If a square has two winners, the first submission (square winner) will get a prize of $400, and then the two winners will split the remaining pool prize, which can be up to $1200 (or $600 per winner).
 
-The potential award per person per square is $1,400 USD if you win the square and it is a part of a bingo both vertically and horizontally. There is an additional $200 prize pool for additional submissions per square. That brings the total value of each square to $1,600 USD.
-
-Throughout the weekend, we may introduce bonus rounds (features) for certain squares. Bonus features can vary in complexity and prize value, and will be announced on Discord in the #hackathons-and-bounties channel.  
-
-Tag @taek and @ayoung on the Bingothon thread in Discord when you submit a project for evaluation. We will do our best to evaluate in real time. 
+At their discretion, the judges may announce bonus prizes for extending winning skapps with specific new features. These bonus prizes will depend on the submissions that are coming in.
 
 We hope you have fun hacking, and good luck! 
 
