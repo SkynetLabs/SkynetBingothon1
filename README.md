@@ -25,7 +25,7 @@ Awards are as follows:
 |:-------------------------:|:-------------------------:|
 |1. Square-winning skapp     |      $400 USD        |
 | 2. Prize pool per square |       $400 USD        |
-|  3.  Square is part of a bingo  |         $400 USD         |
+|  3.  Square is part of a bingo  |         $400 USD x 2       |
 
 There are no limits to the number of squares you can submit a project for. If a square has only one winner, that winner will collect the winning prize, the full pool prize, and the full prize money for all bingos that cover the square, making the maximum possible reward for a single square $1,600. If a square has two winners, the first submission (square winner) will get a prize of $400, and then the two winners will split the remaining pool prize, which can be up to $1200 (or $600 per winner).
 
