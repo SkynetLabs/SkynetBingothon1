@@ -2,6 +2,8 @@
 
 Welcome to the first ever Skynet Labs Bingothon! We have 25 skapp ideas for you to hack on over the next 60 hours, with final submissions due on Sunday, Nov 14 at 11:59pm Eastern Time.
 
+![image](https://user-images.githubusercontent.com/34407065/141413902-214faaf9-ea88-4cf2-b370-5a33c9213c51.png)
+
 There is an issue for each of the Bingo card squares with a description of the skapp necessary to complete the square. You are free to hack on any of the squares, but keep in mind that only the first *acceptable MVP* will win the square. 
 
 You can earn awards in three ways. 
@@ -35,4 +37,3 @@ We hope you have fun hacking, and good luck!
 | [Slideshow Presenter](https://github.com/SkynetLabs/SkynetBingothon1/issues/4) |  [E-Book Reader](https://github.com/SkynetLabs/SkynetBingothon1/issues/9)   | [Image Editor](https://github.com/SkynetLabs/SkynetBingothon1/issues/14)     |      [RSS Feed Reader](https://github.com/SkynetLabs/SkynetBingothon1/issues/19) |   [Encrypted File Uploader with Persistence ](https://github.com/SkynetLabs/SkynetBingothon1/issues/24) |
 | [Image Editor](https://github.com/SkynetLabs/SkynetBingothon1/issues/5)     |    [Manga/Comic Reader](https://github.com/SkynetLabs/SkynetBingothon1/issues/10) |   [Meme Generator](https://github.com/SkynetLabs/SkynetBingothon1/issues/15) |[Friend Manager](https://github.com/SkynetLabs/SkynetBingothon1/issues/20) |[Cryptoasset Portfolio Manager](https://github.com/SkynetLabs/SkynetBingothon1/issues/25) |
 
-![image](https://user-images.githubusercontent.com/34407065/141413902-214faaf9-ea88-4cf2-b370-5a33c9213c51.png)
