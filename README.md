@@ -1,4 +1,4 @@
-# Skynet Bingothon #1
+# Skynet Bingothon #1: Homescreen Edition
 
 Welcome to the first ever Skynet Labs Bingothon! We have 25 skapp ideas for you to hack on over the next 60 hours, with final submissions due on Sunday, Nov 14 at 11:59pm Eastern Time.
 
